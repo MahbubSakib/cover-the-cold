@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Warmth for Dhaka's Slums",
+      "image": "https://i.ibb.co.com/VNyrwVK/donate1.jpg",
+      "description": "Provide warm clothes for slum dwellers in Dhaka who face harsh winters without proper clothing.",
+      "status": "Active",
+      "contactInfo": "contact@dhakawarmth.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Cozy Clothes for Dhaka Streets",
+      "image": "https://i.ibb.co.com/VW324xr/donate2.jpg",
+      "description": "Help homeless individuals in Dhaka stay warm during cold nights by donating blankets.",
+      "status": "Active",
+      "contactInfo": "help@dhakacozydrive.com",
+      "division": "Dhaka"
+    },
+    {
+      "id": 3,
+      "title": "Winter Relief in Rajshahi",
+      "image": "https://i.ibb.co.com/JKpVrHN/donate3.jpg",
+      "description": "Help us distribute blankets and sweaters to vulnerable families in Rajshahi's rural areas.",
+      "status": "Active",
+      "contactInfo": "help@rajshahiwinterrelief.org",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 4,
+      "title": "Joypurhat Warmth Drive",
+      "image": "https://i.ibb.co.com/LRcP8Bh/donate4.jpg",
+      "description": "Help Joypurhat’s rural areas stay warm this winter with your generous clothing donations.",
+      "status": "Active",
+      "contactInfo": "joypurhat@warmdrive.org",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Sylhet's Winter Aid Campaign",
+      "image": "https://i.ibb.co.com/FkQbKH0/donate6.jpg",
+      "description": "Donate winter essentials to children and elderly individuals in Sylhet's tea gardens.",
+      "status": "Active",
+      "contactInfo": "info@sylhetwinteraid.com",
+      "division": "Sylhet"
+    },
+    {
+      "id": 6,
+      "title": "Habiganj Winter Clothing Campaign",
+      "image": "https://i.ibb.co.com/Chx3bqW/donate5.jpg",
+      "description": "Donate jackets and blankets to support the families in Habiganj’s coldest villages.",
+      "status": "Active",
+      "contactInfo": "habiganj@donatewarmth.org",
+      "division": "Sylhet"
+    },
+    {
+      "id": 7,
+      "title": "Blanket Distribution in Chattogram",
+      "image": "https://i.ibb.co.com/SyWB9jN/donate7.jpg",
+      "description": "Help protect impoverished communities in Chattogram from the cold by donating blankets and warm clothes.",
+      "status": "Active",
+      "contactInfo": "support@chattogramwarmth.org",
+      "division": "Chattogram"
+    },
+    {
+      "id": 8,
+      "title": "Chattogram's Rural Winter Aid",
+      "image": "https://i.ibb.co.com/FYnwqCC/donate8.jpg",
+      "description": "Support rural villages in Chattogram by contributing warm clothing for families.",
+      "status": "Active",
+      "contactInfo": "aid@chattogramrelief.com",
+      "division": "Chattogram"
+    },
+    {
+      "id": 9,
+      "title": "Khulna Winter Essentials Drive",
+      "image": "https://i.ibb.co.com/qnwTf0k/donate9.jpg",
+      "description": "Join us in providing warm clothing to families living in low-income neighborhoods in Khulna.",
+      "status": "Active",
+      "contactInfo": "donate@khulnawinterdrive.com",
+      "division": "Khulna"
+    },
+    {
+      "id": 10,
+      "title": "Warm Smiles for Khulna",
+      "image": "https://i.ibb.co.com/WDKN7Sw/donate10.jpg",
+      "description": "Help us distribute winter clothes to children in Khulna's slums and rural areas.",
+      "status": "Active",
+      "contactInfo": "warmth@khulnasmiles.org",
+      "division": "Khulna"
+    }
+  ]
+  
